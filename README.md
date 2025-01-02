@@ -7,14 +7,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Emblem_of_Saudi_Arabia.png" alt="Emblem of Saudi Arabia" width="100" style="border-radius: 10px; margin-bottom: 20px;">
 </div>
 
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Arabia_Flag_Map.png" alt="Saudi Arabia Flag Map" width="200" style="margin-bottom: 20px;">
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/LadenBinOsama/ladenbinosama.github.io/refs/heads/main/assets/IMG_4947.jpeg" alt="Profile Image" width="250" style="border-radius: 15px; margin-bottom: 20px;">
-</div>
-
 ---
 
 ## 🧩 **نبذة عني**  
